@@ -1,0 +1,17 @@
+C:\Users\PC\OneDrive\Desktop\code-with-quarkus\src\main\java\blog\platforma\exception\BlogException.java
+C:\Users\PC\OneDrive\Desktop\code-with-quarkus\src\main\java\blog\platforma\model\BlogPost.java
+C:\Users\PC\OneDrive\Desktop\code-with-quarkus\src\main\java\blog\platforma\model\Komentar.java
+C:\Users\PC\OneDrive\Desktop\code-with-quarkus\src\main\java\blog\platforma\model\Korisnik.java
+C:\Users\PC\OneDrive\Desktop\code-with-quarkus\src\main\java\blog\platforma\model\Rola.java
+C:\Users\PC\OneDrive\Desktop\code-with-quarkus\src\main\java\blog\platforma\model\Tag.java
+C:\Users\PC\OneDrive\Desktop\code-with-quarkus\src\main\java\blog\platforma\repository\BlogPostRepository.java
+C:\Users\PC\OneDrive\Desktop\code-with-quarkus\src\main\java\blog\platforma\repository\KomentarRepository.java
+C:\Users\PC\OneDrive\Desktop\code-with-quarkus\src\main\java\blog\platforma\repository\KorisnikRepository.java
+C:\Users\PC\OneDrive\Desktop\code-with-quarkus\src\main\java\blog\platforma\repository\RolaRepository.java
+C:\Users\PC\OneDrive\Desktop\code-with-quarkus\src\main\java\blog\platforma\repository\TagRepository.java
+C:\Users\PC\OneDrive\Desktop\code-with-quarkus\src\main\java\blog\platforma\resource\KorisnikResource.java
+C:\Users\PC\OneDrive\Desktop\code-with-quarkus\src\main\java\blog\platforma\service\BlogPostService.java
+C:\Users\PC\OneDrive\Desktop\code-with-quarkus\src\main\java\blog\platforma\service\KomentarService.java
+C:\Users\PC\OneDrive\Desktop\code-with-quarkus\src\main\java\blog\platforma\service\KorisnikService.java
+C:\Users\PC\OneDrive\Desktop\code-with-quarkus\src\main\java\blog\platforma\service\RolaService.java
+C:\Users\PC\OneDrive\Desktop\code-with-quarkus\src\main\java\blog\platforma\service\TagService.java
